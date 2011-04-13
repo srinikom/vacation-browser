@@ -1,0 +1,4 @@
+#mins hrs  date month day <cmd>
+#0-59 0-23 1-31 1-12  1-7
+* 10 * * * /home/srini/Projects/vacnbrwsr/vbr.cmd
+* 20 * * * /home/srini/Projects/vacnbrwsr/vbr.cmd
