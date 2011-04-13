@@ -1,6 +1,7 @@
 Installation steps:
 
-git clone <above git link>
+#git clone <above git link>
+git clone git://github.com/srinikom/vacation-browser.git
 cd vbr; ls
 
 Follow instructions from here.
