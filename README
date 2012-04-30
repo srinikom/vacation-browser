@@ -1,8 +1,7 @@
-Installation steps:
+#Installation steps:
 
-#git clone <above git link>
-git clone git://github.com/srinikom/vacation-browser.git
-cd vbr; ls
+    git clone git://github.com/srinikom/vacation-browser.git
+    cd vbr; ls
 
 Follow instructions from here.
 http://www.fabulasolutions.com/2010/02/dont-miss-news-and-trends-when-you-are.html
